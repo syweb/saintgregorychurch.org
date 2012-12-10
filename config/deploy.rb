@@ -11,4 +11,3 @@ set :processes,     1
 namespace :vlad do
 
 end
-
